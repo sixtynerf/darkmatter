@@ -1,6 +1,6 @@
 -- darkmatter.lua - Windower Addon
 -- Automates Dark Matter augment attempts via Oseem
--- this lua is not tested
+-- this lua is not tested in development
 
 _addon.name = 'darkmatter'
 _addon.version = '1.0'
